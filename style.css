@@ -21,13 +21,28 @@
 }
 
 .body {
-    background-color: orange;
     text-align: center;
+    font-family: Georgia, sans-serif;
+}
+
+.homepage {
+    background-color: rgba(255, 166, 0, 0.89);
+}
+
+.toast{
+    background-color: rgba(247, 176, 46, 0.63);
+}
+
+.noodles {
+    background-color: rgba(204, 77, 3, 0.801)
+}
+
+.burger {
+    background-color: rgba(139, 73, 28, 0.897);
 }
 
 .description {
     font-size: 25px;
-    color: brown;
 }
 
 .headline-small.ingredients {

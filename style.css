@@ -1,6 +1,7 @@
 .headline-big {
     font-size: 50px;
     font-weight: 900;
+    color: white;
 }
 
 .headline-mid {
@@ -22,6 +23,15 @@
 .body {
     background-color: orange;
     text-align: center;
+}
+
+.description {
+    font-size: 25px;
+    color: brown;
+}
+
+.headline-small.ingredients {
+    color: red;
 }
 
 .ul {

@@ -6,7 +6,13 @@
 .headline-mid {
     font-size: 35px;
     font-weight: 800;
-    color: aquamarine;
+    color: purple;
+}
+
+.headline-small {
+    font-size: 30px;
+    font-weight: 700;
+    color: rebeccapurple;
 }
 
 #homepage-header {
@@ -20,6 +26,13 @@
 
 .ul {
     font-size:35px;
+    font-weight: 800;
+    display: inline-block;
+    text-align: left;
+}
+ 
+.ol {
+    font-size: 35px;
     font-weight: 800;
     display: inline-block;
     text-align: left;
